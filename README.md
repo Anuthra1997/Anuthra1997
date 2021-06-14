@@ -5,11 +5,11 @@
 <br/>
 <p align="center"> 
     <a href="">
-        <img src="https://github.com/Ttecs/Ttecs/blob/main/Hnet-image%20(1).gif" width="530px" height="280px" alt="Anuthra1997">
+        <img src="https://github.com/arsentieva/arsentieva/blob/main/code.gif" width="530px" height="280px" alt="Anuthra1997">
     </a>
 </p>
 <br/>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Ttecs&label=Profile%20views&color=0e75b6&style=flat" alt="Anuthra1997" /></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Anuthra1997&label=Profile%20views&color=0e75b6&style=flat" alt="Anuthra1997" /></p>
 <p align="center"> <img src="https://badges.pufler.dev/years/Ttecs" alt="Anuthra1997" />
 </p>
 
