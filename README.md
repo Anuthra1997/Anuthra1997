@@ -1,27 +1,27 @@
-<h1 align="center">👋 Hi,I'm Ttecs.</h1>
+<h1 align="center">👋 Hi,I'm Anuthra.</h1>
 <h3></h3>
 </br>
 </br>
 <br/>
 <p align="center"> 
     <a href="">
-        <img src="https://github.com/Ttecs/Ttecs/blob/main/Hnet-image%20(1).gif" width="530px" height="280px" alt="Ttecs">
+        <img src="https://github.com/Ttecs/Ttecs/blob/main/Hnet-image%20(1).gif" width="530px" height="280px" alt="Anuthra1997">
     </a>
 </p>
 <br/>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Ttecs&label=Profile%20views&color=0e75b6&style=flat" alt="Ttecs" /></p>
-<p align="center"> <img src="https://badges.pufler.dev/years/Ttecs" alt="Ttecs" />
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Ttecs&label=Profile%20views&color=0e75b6&style=flat" alt="Anuthra1997" /></p>
+<p align="center"> <img src="https://badges.pufler.dev/years/Ttecs" alt="Anuthra1997" />
 </p>
 
 <!--[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)-->
 
-## I'm a Undergraduate at University of Moratuwa!! ✨
+## I'm a Undergraduate at University of Peradeniya! ✨
 
 <!-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!-->
-- 🌱 I’m currently learning React native asp.net core and react 
+- 🌱 I’m currently learning Ui/Ux
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Do 1 ore more my own projects
-- ⚡ Fun fact: I love to play vedio Games
+- ⚡ Fun fact: I love being a good person
 
 
 
@@ -56,7 +56,7 @@
   
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ttecs&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ttecs&theme=radical"/>|
+<img src="https://github-readme-stats.vercel.app/api?username=Anuthra1997&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anuthra1997&theme=radical"/>|
 |---|---|
 </br>
 
@@ -64,7 +64,7 @@
 ## TOP PROGRAMMING LANGUAGES
 </br>
 <p align="center"><img align="center"
-src="https://github-readme-stats.vercel.app/api/top-langs?username=Ttecs&show_icons=true&locale=en&layout=compact&theme=radical"alt="Ttecs" /></p>
+src="https://github-readme-stats.vercel.app/api/top-langs?username=Anuthra1997&show_icons=true&locale=en&layout=compact&theme=radical"alt="Anuthra1997" /></p>
 
 </br>
 
