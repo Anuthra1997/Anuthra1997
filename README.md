@@ -36,7 +36,7 @@
 
 <img align="left" alt="JavaScript" width="50" height="45" src="https://img.icons8.com/fluent/50/000000/figma.png" />
 <img src="https://img.icons8.com/color/48/000000/css3.png"  width="50" height="45"/>
-
+<img width="50" height="45" src="https://img.icons8.com/color/48/000000/adobe-xd.png"/>
 
 
 
@@ -48,7 +48,7 @@
 <br/>
 <br/>
 
-## Statistics 🎨
+<!--## Statistics 🎨
 
 
   
@@ -64,7 +64,7 @@
 <p align="center"><img align="center"
 src="https://github-readme-stats.vercel.app/api/top-langs?username=Anuthra1997&show_icons=true&locale=en&layout=compact&theme=radical"alt="Anuthra1997" /></p>
 
-</br>
+</br> -->
 
 
 <h3 align="center"> CONNECT WITH ME <img src="https://media.giphy.com/media/VfDrAEbN7pXdZwDsSC/giphy.gif" height="150">  </h3>
