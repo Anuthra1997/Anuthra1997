@@ -34,18 +34,16 @@
 <img align="left" alt="HTML5" width="50" height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
 
-<img align="left" alt="JavaScript" width="50" height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="50" height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="React" width="50" height="45" src="https://img.icons8.com/color/144/000000/java-coffee-cup-logo.png" />
-<img align="left" alt="React" width="50" height="45" src="https://img.icons8.com/color/144/000000/visual-studio-2019.png" />
+<img align="left" alt="JavaScript" width="50" height="45" src="https://img.icons8.com/fluent/50/000000/figma.png" />
+<img src="https://img.icons8.com/color/48/000000/css3.png"  width="50" height="45"/>
 
 
-<img align="left" alt="React" width="50" height="45" src="https://img.icons8.com/dusk/128/ffffff/javascript-logo.png" />
+
+
+
 <img align="left" alt="React" width="50" height="45" src="https://img.icons8.com/fluent/144/000000/gimp.png" />
-<img align="left" alt="Firebase" width="50" height="45" src="https://img.icons8.com/color/48/000000/firebase.png" />
-<img  align="left" alt="Firebase" width="50" height="45" src="https://img.icons8.com/color/48/000000/flutter.png" />
-<a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mysql" width="50" height="45"/> </a>
-<a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="mysql" width="50" height="45"/> </a>
+
+
 
 <br/>
 <br/>
@@ -72,8 +70,8 @@ src="https://github-readme-stats.vercel.app/api/top-langs?username=Anuthra1997&s
 <h3 align="center"> CONNECT WITH ME <img src="https://media.giphy.com/media/VfDrAEbN7pXdZwDsSC/giphy.gif" height="150">  </h3>
 </br>
 <p align="center">
-<a href="www.gmail.tharakahalkewelatecs@gmail.com" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/gmail-new.png" alt="facebook" width="40" height="40"/> </a>
-<a href="https://www.linkedin.com/in/sandakelum-bandara"" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="40" height="40"/> </a>
+<a href="www.gmail.anuthra90@gmail.com" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/gmail-new.png" alt="facebook" width="40" height="40"/> </a>
+<a href="https://www.linkedin.com/in/anuthra-muthukumara-7a159917b/"" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="40" height="40"/> </a>
 </p>
 
 
