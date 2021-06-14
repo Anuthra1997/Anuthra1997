@@ -35,8 +35,8 @@
 
 
 <img align="left" alt="JavaScript" width="50" height="45" src="https://img.icons8.com/fluent/50/000000/figma.png" />
-<img src="https://img.icons8.com/color/48/000000/css3.png"  width="50" height="45"/>
-<img width="50" height="45" src="https://img.icons8.com/color/48/000000/adobe-xd.png"/>
+<img align="left" src="https://img.icons8.com/color/48/000000/css3.png"  width="50" height="45"/>
+<img align="left" width="50" height="45" src="https://img.icons8.com/color/48/000000/adobe-xd.png"/>
 
 
 
